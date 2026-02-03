@@ -1,4 +1,4 @@
-🖐🏻Hi there
+🖐Hi there
 ---
 Blog <br>
 <a href="https://velog.io/@leui9179" target="_blank"><img src="https://img.shields.io/badge/leui9179.log-ffffff?&logo=velog"/></a>
