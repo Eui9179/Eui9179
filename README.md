@@ -19,5 +19,3 @@ Skill<br>
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 </span>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eui9179&hide=jupyter%20notebook,objective-c,html)](https://github.com/anuraghazra/github-readme-stats)
